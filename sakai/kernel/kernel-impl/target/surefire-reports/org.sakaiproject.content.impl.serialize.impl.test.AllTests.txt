@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sakaiproject.content.impl.serialize.impl.test.AllTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.752 s -- in org.sakaiproject.content.impl.serialize.impl.test.AllTests

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sakaiproject.tool.impl.SessionComponentRegressionTest
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.129 s -- in org.sakaiproject.tool.impl.SessionComponentRegressionTest
